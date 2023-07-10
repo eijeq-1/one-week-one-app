@@ -17,8 +17,8 @@ title: One Week One App
 email: hello@patdryburgh.com
 description: >- # this means to ignore newlines until "baseurl:"
   To keep track of my endeavour.
-baseurl: "/hitchens" # the subpath of your site, e.g. /blog
-url: "https://one-week-one-app.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "/one-week-one-app" # the subpath of your site, e.g. /blog
+url: "https://yijlal.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 icon: /assets/images/icon-512.png
 twitter_username: ijxx
 github_username:  yijlal
