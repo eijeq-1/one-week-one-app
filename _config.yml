@@ -21,7 +21,7 @@ baseurl: "/one-week-one-app" # the subpath of your site, e.g. /blog
 url: "https://eijeq-1.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 icon: /assets/images/icon-512.png
 twitter_username: ijxx
-github_username:  yijlal
+github_username:  eijeq-1
 
 # Build settings
 markdown: kramdown
